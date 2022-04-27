@@ -1,0 +1,6 @@
+Charecter,CODE,Frequency
+A,111,2
+ ,10,2
+C,01,2
+B,00,2
+D,110,1
